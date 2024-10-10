@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|x:\\ms2\\exam\\brs\\bookrentalmanagementsystem\\bookrentalmanagementsystem\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|solutionrelative:bookrentalmanagementsystem\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\bookrentalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|solutionrelative:bookrentalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\bookrentalmanagementsystem\\dvdbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|solutionrelative:bookrentalmanagementsystem\\dvdbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\bookrentalmanagementsystem\\digitalbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|solutionrelative:bookrentalmanagementsystem\\digitalbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\bookrentalmanagementsystem\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|solutionrelative:bookrentalmanagementsystem\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\bookrentalmanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9878BD3-3817-4D6F-B952-FE42165D839B}|BookRentalManagementSystem\\BookRentalManagementSystem.csproj|solutionrelative:bookrentalmanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BookRentalManagementSystem\\Program.cs",
+              "ToolTip": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\Program.cs",
+              "RelativeToolTip": "BookRentalManagementSystem\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwDMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:02:49.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\BookManager.cs",
+              "RelativeDocumentMoniker": "BookRentalManagementSystem\\BookManager.cs",
+              "ToolTip": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\BookManager.cs",
+              "RelativeToolTip": "BookRentalManagementSystem\\BookManager.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwEUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:01:46.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "BookRentalManagementSystem\\Book.cs",
+              "ToolTip": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\Book.cs",
+              "RelativeToolTip": "BookRentalManagementSystem\\Book.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:01:39.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookRentalManagementSystem\\BookRepository.cs",
+              "ToolTip": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\BookRepository.cs",
+              "RelativeToolTip": "BookRentalManagementSystem\\BookRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgv0wAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:57:53.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DVDBook.cs",
+              "DocumentMoniker": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\DVDBook.cs",
+              "RelativeDocumentMoniker": "BookRentalManagementSystem\\DVDBook.cs",
+              "ToolTip": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\DVDBook.cs",
+              "RelativeToolTip": "BookRentalManagementSystem\\DVDBook.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:52:44.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DigitalBook.cs",
+              "DocumentMoniker": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\DigitalBook.cs",
+              "RelativeDocumentMoniker": "BookRentalManagementSystem\\DigitalBook.cs",
+              "ToolTip": "X:\\MS2\\Exam\\BRS\\BookRentalManagementSystem\\BookRentalManagementSystem\\DigitalBook.cs",
+              "RelativeToolTip": "BookRentalManagementSystem\\DigitalBook.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:52:39.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

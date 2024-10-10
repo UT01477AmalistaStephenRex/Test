@@ -1,0 +1,7 @@
+X:\MS2\Exam\BRS\BookRentalManagementSystem\BookRentalManagementSystem\obj\Debug\BookRentalManagementSystem.csproj.AssemblyReference.cache
+X:\MS2\Exam\BRS\BookRentalManagementSystem\BookRentalManagementSystem\obj\Debug\BookRentalManagementSystem.csproj.CoreCompileInputs.cache
+X:\MS2\Exam\BRS\BookRentalManagementSystem\BookRentalManagementSystem\bin\Debug\BookRentalManagementSystem.exe.config
+X:\MS2\Exam\BRS\BookRentalManagementSystem\BookRentalManagementSystem\bin\Debug\BookRentalManagementSystem.exe
+X:\MS2\Exam\BRS\BookRentalManagementSystem\BookRentalManagementSystem\bin\Debug\BookRentalManagementSystem.pdb
+X:\MS2\Exam\BRS\BookRentalManagementSystem\BookRentalManagementSystem\obj\Debug\BookRentalManagementSystem.exe
+X:\MS2\Exam\BRS\BookRentalManagementSystem\BookRentalManagementSystem\obj\Debug\BookRentalManagementSystem.pdb
